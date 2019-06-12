@@ -1,4 +1,28 @@
-h1 {
-  font-family: Arial;
-  color: blue;
+
+
+body {
+  font-family: palatino linotype, book antiqua, palatino, serif;
+  margin: 0;
+   background: linear-gradient(to bottom right, #ffffff 0%, #66ccff 100%);
+}
+
+#headtextleft {
+  color: #003399;
+  text-shadow: white;
+  font-size: 45px;
+  padding: 8px 12px;
+  text-align: center;
+}
+
+#headimage {
+  width: 100px;
+  height: 100px;
+}
+
+#headtextright {
+  color: #003399;
+  text-shadow: white;
+  font-size: 45px;
+  padding: 8px 12px;
+  text-align: center;
 }
