@@ -6,13 +6,16 @@ body {
    background: linear-gradient(to bottom right, #ffffff 0%, #66ccff 100%);
 }
 
-#headtextleft {
+
+#headtext {
   color: #003399;
-  text-shadow: white;
-  font-size: 45px;
+  font-size: 50px;
   padding: 8px 12px;
   text-align: center;
+  font-family: 'Pacifico', cursive;
+  font-weight: 900;
 }
+
 
 #headimage {
   width: 100px;
@@ -26,6 +29,17 @@ body {
   padding: 8px 12px;
   text-align: right;
 }
+
+
+.navbar {
+  background-color:  white;
+}
+
+
+/* li a:hover {
+  background-color: #white;
+  color: #003399;
+} */
 
 .fa {
   padding: 20px;
